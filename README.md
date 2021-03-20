@@ -36,7 +36,7 @@
 <br />
 
 ## Somethings about me:
-- 🔭 I’m currently working on a Job assignment application for GRP .
+- 🔭 I successfully delivered a Weekly Job Assignemnt application to UP GRP .
 - 🌱 I’m currently learning Backend Development .
 - ⚡ Fun fact: I also play guitar and regularly play on Steam.
 
