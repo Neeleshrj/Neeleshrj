@@ -44,6 +44,10 @@
 
 [linkedin]: https://www.linkedin.com/in/neelesh-ranjan-jha-ab84071a3
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeleshrj&hide=stars,issues&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **neeleshrj/neeleshrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
