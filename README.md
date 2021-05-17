@@ -44,7 +44,9 @@
 
 [linkedin]: https://www.linkedin.com/in/neelesh-ranjan-jha-ab84071a3
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeleshrj&hide=stars,issues&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Neelesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeleshrj&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeleshrj&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
