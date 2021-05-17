@@ -37,14 +37,14 @@
 
 ## Somethings about me:
 - 🔭 I successfully delivered a Weekly Job Assignemnt application to UP GRP .
-- 🌱 I’m currently learning Kotlin .
+- 🌱 I’m currently solving HTBs .
 - ⚡ Fun fact: I also play guitar and regularly play on Steam.
 
 
 
 [linkedin]: https://www.linkedin.com/in/neelesh-ranjan-jha-ab84071a3
 
-[![Neelesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeleshrj&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Neelesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeleshrj&theme=onedark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeleshrj&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
