@@ -34,12 +34,12 @@
 
 <br />
 <br />
-
+<!--
 ## Somethings about me:
 - 🔭 I successfully delivered a Weekly Job Assignemnt application to UP GRP .
 - 🌱 I’m currently solving HTBs .
 - ⚡ Fun fact: I also play guitar and regularly play on Steam.
-
+-->
 
 
 [linkedin]: https://www.linkedin.com/in/neelesh-ranjan-jha-ab84071a3
