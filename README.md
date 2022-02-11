@@ -1,6 +1,6 @@
-## Hello there!, I am Neelesh Ranjan Jha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h2 align="center"> Hello there!, I am Neelesh Ranjan Jha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-#### I am a B.Tech CSE student from Vellore Institute of Technology,Chennai and an enthusiast in Mobile Application Development.
+<h3 align="center"> I am a B.Tech CSE student from Vellore Institute of Technology,Chennai and an enthusiast in Mobile Application Development. I am good at languages like JavaScript and bad at languages like Klingon.</h3>
 
 ## Social:
 
