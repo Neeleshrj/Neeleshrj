@@ -1,14 +1,14 @@
 <h2 align="center"> Hello there!, I am Neelesh Ranjan Jha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<h3 align="center"> I am a B.Tech CSE student from Vellore Institute of Technology,Chennai and an enthusiast in Mobile Application Development. I am good at languages like JavaScript and bad at languages like Klingon.</h3>
+<h3 align="center"> I am good at languages like JavaScript and bad at languages like Klingon. Writing APIs is fun.</h3>
 
 ## Social:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedIn&logoColor=&color=black)](https://www.linkedin.com/in/neelesh-ranjan-jha-ab84071a3/)
 [![Instagram](https://img.shields.io/badge/-Instagram-informational?style=flat-square&logo=instagram&logoColor=&color=black)](https://www.instagram.com/neeleshrjha/)
 
-## Languages and Tools:
-
+## Stats:
+<!--
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -24,6 +24,7 @@
 <img align="left" alt="firebase" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" />
 <img align="left" alt="cpp" width="26px" src="https://i.imgur.com/Ao2P8iG.png" />
 <img align="left" alt="python" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />
+-->
 
 
 <br />
