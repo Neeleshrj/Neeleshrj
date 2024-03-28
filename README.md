@@ -5,7 +5,6 @@
 ## Social:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedIn&logoColor=&color=black)](https://www.linkedin.com/in/neelesh-ranjan-jha-ab84071a3/)
-[![Instagram](https://img.shields.io/badge/-Instagram-informational?style=flat-square&logo=instagram&logoColor=&color=black)](https://www.instagram.com/neeleshrjha/)
 
 ## Stats:
 <!--
